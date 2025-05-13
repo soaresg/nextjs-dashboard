@@ -56,7 +56,7 @@ const invoices = [
     date: '2022-12-06',
   },
   {
-    customer_id: customers[1].id,
+    customer_id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
     amount: 20348,
     status: 'pending',
     date: '2022-11-14',
@@ -110,7 +110,7 @@ const invoices = [
     date: '2023-06-07',
   },
   {
-    customer_id: customers[1].id,
+    customer_id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
     amount: 500,
     status: 'paid',
     date: '2023-08-19',
